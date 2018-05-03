@@ -1,0 +1,30 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "daniel engelhard's porfolio",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A00873484/Learning.git"
+  },
+  "keywords": [
+    "portfolio",
+    "webdevelopment",
+    "websites",
+    "frontend",
+    "backend"
+  ],
+  "author": "daniel engelhard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A00873484/Learning/issues"
+  },
+  "homepage": "https://github.com/A00873484/Learning#readme"
+}
